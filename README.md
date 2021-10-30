@@ -1,1 +1,2 @@
 # Kratin-LLP-task
+#Basically it is an web app using nodejs mongodb in which i created a form where user will input its regular checkup details like blood pressure, Heart Rate etc It will compare it by showing it as graph on page with normal if anyone finds out he/she is not having proper values of this then he will get notified i also creatred it for separate users where user can login to our page we can also integrate hospital details in it 
